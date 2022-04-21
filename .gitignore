@@ -6,8 +6,11 @@
 #Secrets
 secret.csx
 
-#swap
+# swap
 *.csx.swp
+
+# azure
+.azure/
 
 # User-specific files
 *.rsuser
